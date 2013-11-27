@@ -1,4 +1,4 @@
-Building a **frictionless** data ecosystem.
+# Building a frictionless data ecosystem
 
 # The Vision
 
@@ -56,9 +56,24 @@ From first Frictionless Data post
 * with logistics for ingredients for cooking (cf [Frictionless Post][friction]).
 * Analogy with libraries and packaging in code
 
+### What an Ecosystem Looks Like
+
+<img src="http://farm6.staticflickr.com/5149/5564991102_fcf972d056_z.jpg" alt="" />
+
+From [Building the (Open) Data Ecosystem][ecosystem]
+
+<img src="https://github.com/maxogden/dat/raw/master/img/dat-diagram.png" />
+
+From @maxogden's [Dat Project][dat]
+
+[dat]: https://github.com/maxogden/dat
+
+
 ## References
 
 * [Frictionless Data: making it radically easier to get stuff done with data][friction]
+* [Building the (Open) Data Ecosystem][ecosystem]
 
 [friction]: http://blog.okfn.org/2013/04/24/frictionless-data-making-it-radically-easier-to-get-stuff-done-with-data/
+[ecosystem]: http://blog.okfn.org/2011/03/31/building-the-open-data-ecosystem/
 
