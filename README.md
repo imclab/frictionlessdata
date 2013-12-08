@@ -58,16 +58,27 @@ From first Frictionless Data post
 
 ### What an Ecosystem Looks Like
 
-<img src="http://farm6.staticflickr.com/5149/5564991102_fcf972d056_z.jpg" alt="" />
-
 From [Building the (Open) Data Ecosystem][ecosystem]
 
-<img src="https://github.com/maxogden/dat/raw/master/img/dat-diagram.png" />
+<img src="http://farm6.staticflickr.com/5149/5564991102_fcf972d056_z.jpg" alt="" style="max-width: 48%; max-height: 400px;" />
+
+<img src="http://farm6.static.flickr.com/5296/5564414863_bafa3e82b7.jpg" alt="" style="max-width: 48%; max-height: 400px;" />
 
 From @maxogden's [Dat Project][dat]
 
 [dat]: https://github.com/maxogden/dat
 
+<img src="https://github.com/maxogden/dat/raw/master/img/dat-diagram.png" />
+
+### Data Pipelines
+
+Data Pipeline Overview from School of Data Workshop May 2012 (Drawing by Stefan Urbanek)
+
+<img src="http://farm8.staticflickr.com/7073/7177017539_f8bfce4075_c.jpg" alt="" />
+
+Data Pipeline Detail from School of Data Workshop May 2012 (Drawing by Stefan Urbanek)
+
+<img src="http://farm8.staticflickr.com/7235/7176971829_753699235a_b.jpg" alt="" />
 
 ## References
 
