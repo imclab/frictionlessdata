@@ -8,34 +8,39 @@ This friction stops people doing stuff - stops them creating, sharing, collabora
 
 We think getting some key pieces in place can reduce friction enough to lead to a step-change (revolution) in how the (open) data ecosystem operates with massively improved quality, utilization and sharing of data.
 
-Network effects will matter: look at the adoption of a package manager (e.g. npm) or a particular tool. Creating a critical mass of use around the tooling and standards will be critical.
-
+We think that there's a multiplier here: relatively small changes can have big effects. This is because Network effects matter: the utility of a particular standard, pattern or even tool will depend on how many other people are using it. Creating a critical mass of use around the tooling and standards will be critical. But after working on these issues for nearly a decade we think the time is right.
 
 ## What do we want to do?
 
+There are 3 broad areas that work needs to be done in:
+
 - Infrastructure and tools
 - Patterns and standards
-- Outreach and adoption. Network effects matter and ecosystem currently very balkanized (there's the R folks over here, the data portals over there, the map-reduce folks over there ...)
+- Outreach and adoption
 
-Data Package standard - the "Data Package" project
+[Aside] this last is especially important: as we emphasized, network effects matter and currently the ecosystem very balkanized (there's the R folks over here, the data portals over there, the map-reduce folks over there ...).
+
+Being more specific we are focusing our activity in the following "projects":
+
+### Data Package standard - the "Data Package" project
 
 - The basic pattern for preparing data
 - Mininum viable standard
 - Extensible to tabular and geodata
 - Documentation and complementary tools are essential
 
-Publish and "Install" - the "Registry and Tool" project
+### Publish and "Install" - the "Registry and Tool" project
 
 - Integrate (plugins etc) - its got to be incredibly easy to use "packaged" data
 - The value add e.g. dependencies
 - Data more diverse than code so more work here
 
-Provide key data - the "Datasets Project"
+### Provide essential data - the "Datasets Project"
 
-- Helps to socialize and demonstrate data package
+- Helps to socialize and demonstrate data package concepts
 - Source of data to use (high quality, needed and useful)
 
-Process, clean, fix, store - the "Infrastructure Project"
+### Process, clean, fix, store - the "Infrastructure Project"
 
 - More miscellaneous than other "projects" but important
 - Process, cleaning storing etc are tied together (storage and fixing are related - versioning, patching etc)
