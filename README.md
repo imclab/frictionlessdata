@@ -2,13 +2,15 @@
 
 # The Vision
 
-Story: there's too much friction working with data - friction getting data, friction processing data, friction sharing data.
+There's too much friction working with data - friction getting data, friction processing data, friction sharing data.
 
-This friction stops people doing stuff - stops them creating, sharing, collaborating, using (especially amongst distributed communities). It kills the cycles of find, improve, share that would make for a real open data ecosystem.
+This friction stops people doing stuff - stops them creating, sharing, collaborating, using (especially amongst distributed communities). It kills the cycles of find, improve, share that would make for a dynamic, productive and *attractive* (open) data ecosystem.
+
+This needs to be an ecosystem, that like open-source for software, is useful and attractive to those without any principled interest, the vast majority who simply want the best tool for the job, the easiest route to their goal.
 
 We think getting some key pieces in place can reduce friction enough to lead to a step-change (revolution) in how the (open) data ecosystem operates with massively improved quality, utilization and sharing of data.
 
-We think that there's a multiplier here: relatively small changes can have big effects. This is because Network effects matter: the utility of a particular standard, pattern or even tool will depend on how many other people are using it. Creating a critical mass of use around the tooling and standards will be critical. But after working on these issues for nearly a decade we think the time is right.
+We think this because there's a multiplier here that means relatively small changes can have big effects. This multiplier is Network effects: the utility of a particular standard, pattern or even tool depends on how many other people are using it. This means that creating a critical mass of use around the tooling and standards will have a huge effect. This isn't easy. But after working on these issues for nearly a decade we think the time is right.
 
 ## What do we want to do?
 
@@ -27,7 +29,7 @@ Being more specific we are focusing our activity in the following "projects":
 - The basic pattern for preparing data
 - Mininum viable standard
 - Extensible to tabular and geodata
-- Documentation and complementary tools are essential
+- Provision of documentation and complementary tools (essential)
 
 ### Publish and "Install" - the "Registry and Tool" project
 
@@ -45,6 +47,8 @@ Being more specific we are focusing our activity in the following "projects":
 - More miscellaneous than other "projects" but important
 - Process, cleaning storing etc are tied together (storage and fixing are related - versioning, patching etc)
 - High quality data is important (little incentive to use or improve if most data is bad data)
+- There's a lot here so this won't be about creating a much that is new
+- Instead its about joining up what's there, about creating and sharing patterns that work
 
 ## Principles
 
