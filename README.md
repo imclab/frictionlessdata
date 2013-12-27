@@ -58,12 +58,18 @@ From first Frictionless Data post
 * Simple
 * Web oriented
 * Distributed
-* Collaborative
+* Open
 
 ## Stories and Analogies
 
-* with logistics for ingredients for cooking (cf [Frictionless Post][friction]).
+* with logistics - food packaging and processing / ingredients for cooking (cf [Frictionless Post][friction]).
+* with logistics - containerization (original metaphor for Frictionless post
+  but replaced by food as more immediate)
 * Analogy with libraries and packaging in code
+
+--------
+
+## Appendix
 
 ### What an Ecosystem Looks Like
 
